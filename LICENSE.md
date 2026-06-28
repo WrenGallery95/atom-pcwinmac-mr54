@@ -1,4 +1,4 @@
-# 
+# Élite Sublime Text préréglages pour Mac OS | Avancé Sublime Text préréglages pour PC Windows. Avec bibliothèque de snippets et support Gitflow — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
